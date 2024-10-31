@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there! Welcome to my GitHub profile!
+🚀 Passionate about data analysis with a strong foundation in Python 🐍 and SQL 💾. I'm dedicated to uncovering meaningful insights 📊 that drive strategic decisions in finance 💵 and digital marketing 📈.
 
-<!--
-**balmeidac/balmeidac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying: Engineering in Information Systems, enhancing my skills in technology and data analysis.
 
-Here are some ideas to get you started:
+🔎 What I love to do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Transform complex data into clear, actionable insights 🧩
+Develop and refine SQL queries for robust data handling 💡
+Create Python scripts to automate data workflows and streamline reporting 🚀
+🌟 Currently Exploring: Machine learning in Python and advanced SQL techniques to tackle larger data sets 🌐
+
+✨ Let’s connect and collaborate on exciting data projects! 🚀
