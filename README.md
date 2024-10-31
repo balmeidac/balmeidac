@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub profile!
+# 👋 Hi there, I’m Byron Almeida! Welcome to my GitHub profile!
 
 🚀 **Passionate about data analysis** with a strong foundation in **Python** 🐍 and **SQL** 💾. I'm dedicated to uncovering meaningful **insights** 📊 that drive **strategic decisions** in **finance 💵** and **digital marketing 📈**.
 
